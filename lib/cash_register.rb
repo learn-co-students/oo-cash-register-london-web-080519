@@ -39,7 +39,4 @@ def void_last_transaction
   @total = @total - @last_transaction[-1]
 end
 
-
-
-
 end
